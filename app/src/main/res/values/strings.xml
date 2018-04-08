@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">uno-calculator</string>
+    <string name="app_name">Uno Calculator</string>
+
+    <string name="title_add_person">Add Player</string>
 </resources>
